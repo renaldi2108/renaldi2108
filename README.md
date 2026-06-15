@@ -29,7 +29,7 @@ Low-level: Qt · C++
 
 ### 🚀 Things I've built
  
-- **[Little Castle Montessori]** — solo-own and maintain a production Flutter (Bloc) app used by a Montessori school's teachers and students; ~2 years keeping it fast and reliable in everyday use.
+- **Little Castle Montessori** — solo-own and maintain a production Flutter (Bloc) app used by a Montessori school's teachers and students; ~2 years keeping it fast and reliable in everyday use.
 
 ---
 
