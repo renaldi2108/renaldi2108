@@ -1,16 +1,54 @@
-## Hi there 👋
-
-<!--
-**renaldi2108/renaldi2108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi, I'm Renaldi 👋
+ 
+Senior mobile engineer — my whole career has been Android & mobile, and that's where
+my head still lives. I build apps people actually keep on their phones and obsess a
+little too much over how smooth and secure they feel. Clean architecture, fast UIs,
+code the next person won't curse at.
+ 
+Everything outside mobile is a side skill I'm happy to use, not pretend to specialize in.
+ 
+---
+ 
+### 🧩 What I work with
+ 
+**Home turf — native mobile**
+Android with Kotlin & Java, Jetpack Compose, coroutines, and architecture that scales
+(MVI / MVVM / MVP). Strong on **app security** and **performance** — the parts users
+feel even when they can't name them.
+ 
+**Cross-platform — when one codebase has to do more**
+Kotlin Multiplatform & Compose Multiplatform · Flutter (Bloc, GetX) · React Native
+ 
+**Side skills — useful, not my specialty**
+Backend: Go · Spring Boot · Node/Express · PHP (CodeIgniter, Laravel, YII)
+Low-level: Qt · C++
+ 
+> I'd rather be honestly excellent at mobile than vaguely okay at everything.
+ 
+---
+<!-- 
+### 🚀 Things I've built
+ 
+- **[Project 1](https://link)** — [satu baris: masalah yang dipecahkan / keputusan teknis yang menarik]
+- **[Project 2](https://link)** — [satu baris]
+- **[Project 3](https://link)** — [satu baris]
+---
+--> 
+### 🌱 Currently exploring
+ 
+Going deep on **Rust** — curious how far its safety-and-performance promise holds up
+once you leave the tutorials behind. Also leveling up my **Kotlin Multiplatform**,
+**React Native**, and **Go** beyond the basics.
+ 
+---
+ 
+### 🤝 Let's build something
+ 
+Mobile is home, but a genuinely interesting problem will get my attention wherever it
+lives. Open to collaboration, hard problems, and the right opportunities — if you're
+building something worthwhile, I'm easy to reach:
+<!--  
+- LinkedIn — [link]
+- Blog / Website — [link]
+- Email — [opsional]
 -->
