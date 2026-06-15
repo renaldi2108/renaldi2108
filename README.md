@@ -26,14 +26,13 @@ Low-level: Qt · C++
 > I'd rather be honestly excellent at mobile than vaguely okay at everything.
  
 ---
-<!-- 
+
 ### 🚀 Things I've built
  
-- **[Project 1](https://link)** — [satu baris: masalah yang dipecahkan / keputusan teknis yang menarik]
-- **[Project 2](https://link)** — [satu baris]
-- **[Project 3](https://link)** — [satu baris]
+- **[Little Castle Montessori]** — solo-own and maintain a production Flutter (Bloc) app used by a Montessori school's teachers and students; ~2 years keeping it fast and reliable in everyday use.
+
 ---
---> 
+
 ### 🌱 Currently exploring
  
 Going deep on **Rust** — curious how far its safety-and-performance promise holds up
